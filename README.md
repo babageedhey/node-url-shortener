@@ -6,7 +6,7 @@
 
 The Trim Link Shortener and Sharing Tool is what identify and engage your audience.
 
-Not just a link shortener but branded and can track engagements.
+Not just a link shortener but branded and can track engagements...
 
 <hr/>
 
